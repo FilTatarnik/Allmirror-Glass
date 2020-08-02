@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dc346df859983ef4576cefaee401b51",
+    "revision": "396613e1a3f6a4ecf2ba9669aa7af9e3",
     "url": "/FilTatarnik/Allmirror-Glass/index.html"
   },
   {

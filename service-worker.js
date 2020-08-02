@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FilTatarnik/Allmirror-Glass/precache-manifest.fd8fd086f0e111bef3d3e02b11dd8752.js"
+  "/FilTatarnik/Allmirror-Glass/precache-manifest.9ba19a907dd790f2246fc194dbaa1484.js"
 );
 
 self.addEventListener('message', (event) => {
